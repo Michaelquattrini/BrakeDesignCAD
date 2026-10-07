@@ -1,0 +1,22 @@
+       Diagnostica errori: analisi/assieme
+
+  Impossibile soddisfare contemporaneamente tutti i vincoli di posizione. 
+I seguenti vincoli di posizione non possono essere soddisfatti:
+
+
+1) Impossibile soddisfare Vincolo di primo asse di traslazione della connessione
+Connection_36 nel modello ANIMATIONBRAKE3.
+
+
+2) Impossibile soddisfare Vincolo di primo asse di traslazione della connessione
+Connection_37 nel modello ANIMATIONBRAKE3.
+
+
+3) Impossibile orientare correttamente il corpo rigido body11 connesso da
+Connection_69 nel modello ANIMATIONBRAKE3. 
+
+
+4) Impossibile chiudere il loop cinematico seguente: Ground - body5 - body11 -
+body2 - Ground.
+
+
